@@ -1,4 +1,3 @@
-
 name: IBM Cloud Auto Restart
 
 on:
@@ -43,3 +42,4 @@ jobs:
         ./IBM_Cloud_CLI/ibmcloud cf restart "$IBM_APP_NAME"
          
          
+             
